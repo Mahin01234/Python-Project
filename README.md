@@ -37,16 +37,4 @@ A complete system that allows:
 > *   📸 [Calculator_Output.png](Calculator_Output.png)
 > *   📸 [Password_Checker_Output.png](Password%20Checker_Output.png)
 
-## 💻 Requirements
 
-You only need **Python 3.x** installed on your computer to run this project.
-
-## 🚀 How to Use
-
-Follow these steps to get started from scratch:
-
-### 1. Clone the repository
-First, clone this repository to your local machine.
-```bash
-git clone https://github.com/Mahin01234/Python-Project.git
-cd Python-Project
